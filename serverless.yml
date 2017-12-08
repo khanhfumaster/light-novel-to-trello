@@ -14,4 +14,4 @@ functions:
     handler: main.fetchNovels
     timeout: 30
     events:
-      - schedule: rate(1 hour)
+      - schedule: rate(30 minutes)
