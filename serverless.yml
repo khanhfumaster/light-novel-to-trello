@@ -12,3 +12,5 @@ provider:
 functions:
   main:
     handler: main.fetchNovels
+    events:
+      - schedule: rate(1 hour)
