@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import _ from 'lodash';
 import { novelsListId, targetBoardId } from './config';
 import { getLists, getCardsOfList, createCard, updateCard } from './trello';
