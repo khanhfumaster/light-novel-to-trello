@@ -19,6 +19,8 @@ You'll need to:
 
 # Defining your novels
 
+~[](https://gyazo.com/835db3b6cd942d05f0fa6f5e035383bc)
+
 On your novel list and a card and list with your novel name (it has to be matching!).
 
 In your card you'll want to put this JSON blob in the description:
